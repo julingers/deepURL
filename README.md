@@ -10,4 +10,4 @@ accepted to IROS 2020.](https://arxiv.org/abs/2003.05523)
 3.Add some code notes.   
 4.Add some label processing code.  
 5.Add the validation code.   
-6.Created my own AUV synthetic dataset, and applied deepURL in it.
+6.Created my own AUV synthetic dataset, and applied deepURL on it.
